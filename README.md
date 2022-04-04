@@ -29,15 +29,17 @@
   - C &* C++
   - C# 
   - Java
+
 ###### Tools :
   - Android Studio 
   - CodeBlocks 
+  - Intellij Idea Community
  <br/>
  
  
  ### Programming Profiles
 
-<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
+<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50">Md Shahriar Kabir Himel</a>
 
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)

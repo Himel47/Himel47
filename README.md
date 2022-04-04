@@ -2,9 +2,9 @@
 ## I am Shahriar Kabir Himel studing Software Engineering at Shahjalal University of Science and Technology,Sylhet.
 
 
-[![Himel's github stats](https://github-readme-stats.vercel.app/api?username=himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/himel47">
+<a href="https://github.com/Himel47">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilsustswe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -37,15 +37,15 @@
  
  ### Programming Profiles
 
-<a href="https://www.stopstalk.com/user/profile/himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
+<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50"></a>
 
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)
 
-[![Email Badge](https://img.shields.io/badge/Email-ashiqul72@student.sust.edu-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
+[![Email Badge](https://img.shields.io/badge/Email-death44635@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
  
 <!--
-**shakilsustswe/shakilsustswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Himel47/Himel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

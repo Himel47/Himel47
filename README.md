@@ -1,10 +1,10 @@
 ### Hi there 👋
-## I am SHAKIL studing Software Engineering at Shahjalal University of Science and Technology,Sylhet.
+## I am Shahriar Kabir Himel studing Software Engineering at Shahjalal University of Science and Technology,Sylhet.
 
 
-[![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilsustswe&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Himel's github stats](https://github-readme-stats.vercel.app/api?username=himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/shakilsustswe">
+<a href="https://github.com/himel47">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilsustswe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 

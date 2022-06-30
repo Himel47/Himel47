@@ -5,7 +5,7 @@
 [![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Himel47">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilsustswe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel47 &title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
@@ -18,6 +18,7 @@
   - Competitive programming
   - Algorithms 
   - Adobe illustrator
+  - Web Developing
   
 ###### 👯 I’m looking to collaborate with :
   - Other Competitive programmer 

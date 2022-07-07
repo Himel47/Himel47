@@ -5,7 +5,7 @@
 [![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Himel47">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel47&title_color=F7EF8A&text_color=E0AA3E&icon_color=F7EF8A&bg_color=260000" />
+  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel47&title_color=F7EF8A&text_color=E0AA3E&icon_color=F7EF8A&bg_color=260000" />
 </a>
 
 

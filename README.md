@@ -47,7 +47,7 @@
 
 [![Email Badge](https://img.shields.io/badge/Email-death44635@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 
-[!Resume Batdge]
+[!Resume Badge]
  
 <!--
 **Himel47/Himel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

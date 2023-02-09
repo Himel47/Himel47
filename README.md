@@ -47,7 +47,7 @@
 
 [![Email Badge](https://img.shields.io/badge/Email-death44635@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
 
-[![Resume Badge](https://img.shields.io/badge/Resume-Md%20Shahriar%20Kabir%20Himel-lightgrey)](https://flowcv.com/resume/lgerjwk3jk)
+[![Resume Badge](https://img.shields.io/badge/Resume-Md%20Shahriar%20Kabir%20Himel-blue)](https://flowcv.com/resume/lgerjwk3jk)
  
 <!--
 **Himel47/Himel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

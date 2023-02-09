@@ -46,6 +46,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)
 
 [![Email Badge](https://img.shields.io/badge/Email-death44635@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
+
+[!Resume Batdge]
  
 <!--
 **Himel47/Himel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## I am Shahriar Kabir Himel studing Software Engineering at Shahjalal University of Science and Technology,Sylhet.
 
+[![Resume Badge](https://img.shields.io/badge/Resume-Md%20Shahriar%20Kabir%20Himel-blue)](https://flowcv.com/resume/lgerjwk3jk)
 
 [![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,8 +47,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)
 
 [![Email Badge](https://img.shields.io/badge/Email-death44635@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
-
-[![Resume Badge](https://img.shields.io/badge/Resume-Md%20Shahriar%20Kabir%20Himel-blue)](https://flowcv.com/resume/lgerjwk3jk)
  
 <!--
 **Himel47/Himel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

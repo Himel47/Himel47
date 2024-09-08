@@ -6,7 +6,7 @@
 [![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Himel47">
-  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel47&title_color=F7EF8A&text_color=E0AA3E&icon_color=F7EF8A&bg_color=260000" />
+  <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel47&title_color=98DED9&text_color=98DED9&icon_color=227B94&bg_color=161D6F" />
 </a>
 
 
@@ -46,7 +46,7 @@
  
  ### 🕵️‍♂️ Programming Profiles
 
-<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="175" height="35"></a>
+<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="175" height="45"></a>
 
 ### 🤝 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Md_Shahriar_Kabir_Himel-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)

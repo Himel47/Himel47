@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Shahriar Kabir Himel studing Software Engineering at Shahjalal University of Science and Technology,Sylhet.
+## I, Shahriar Kabir Himel, completed my graduation on Software Engineering at Shahjalal University of Science and Technology, Sylhet.
 
 [![Resume Badge](https://img.shields.io/badge/Resume-Md%20Shahriar%20Kabir%20Himel-blue)](https://flowcv.com/resume/lgerjwk3jk)
 
@@ -14,34 +14,39 @@
 
 ###### 🔭 I’m currently working on :                               
   - Competitive programming
+  - Web Development
   
 ###### 🌱 I’m currently learning :                                                                     
   - Competitive programming
   - Algorithms 
-  - Adobe illustrator
-  - Web Developing
+  - Adobe Illustrator
+  - Web Development
   
 ###### 👯 I’m looking to collaborate with :
-  - Other Competitive programmer 
-###### ⚡ Fun fact: 
+  - Other Competitive programmer
+  - Dedicated web developer
+ 
+###### ⚡ Interested: 
   - Photography
   - Travel
   
 ###### Languages:
-  - C &* C++
-  - C# 
-  - Java
+  - C & C++
+  - C#
+  - JavaScript
 
 ###### Tools :
   - Android Studio 
   - CodeBlocks 
   - Intellij Idea Community
+  - Visual Studio
+  - Visual Studio Code
  <br/>
  
  
  ### Programming Profiles
 
-<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50">Md Shahriar Kabir Himel</a>
+[![StopStalk Badge]<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50">Md Shahriar Kabir Himel</a>]()
 
 ## Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)

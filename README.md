@@ -3,7 +3,7 @@
 
 [![Resume Badge](https://img.shields.io/badge/Resume-Md%20Shahriar%20Kabir%20Himel-blue)](https://flowcv.com/resume/lgerjwk3jk)
 
-[![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&show_icons=true&theme=dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Himel's github stats](https://github-readme-stats.vercel.app/api?username=Himel47&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/Himel47">
   <img align="center" style="margin:0.8rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himel47&title_color=98DED9&text_color=98DED9&icon_color=227B94&bg_color=161D6F" />

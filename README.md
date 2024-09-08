@@ -30,12 +30,12 @@
   - Photography
   - Travel
   
-###### Languages:
+###### 📜 Languages:
   - C & C++
   - C#
   - JavaScript
 
-###### Tools :
+###### 💻 Tools :
   - Android Studio 
   - CodeBlocks 
   - Intellij Idea Community
@@ -44,14 +44,14 @@
  <br/>
  
  
- ### Programming Profiles
+ ### 🕵️‍♂️ Programming Profiles
 
-[![StopStalk Badge]<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50">Md Shahriar Kabir Himel</a>]()
+<a href="https://www.stopstalk.com/user/profile/Himel47" target="_blank"><img alt="Stopstalk" src="https://user-images.githubusercontent.com/61650337/136102935-f1590e74-9c66-4505-805b-fcb162691127.png" width="200" height="50">Md Shahriar Kabir Himel</a>
 
-## Connect with me:
+### 🤝 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-himel-bb98aa19a/)
 
-[![Email Badge](https://img.shields.io/badge/Email-death44635@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
+[![Email Badge](https://img.shields.io/badge/Email-himel84664@gmail.com-informational?style=flat&logo=&logoColor=white&color=0D76A8)]()
  
 <!--
 **Himel47/Himel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
